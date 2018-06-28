@@ -33,6 +33,7 @@ An explanation of version control and tooling with git and GitHub
 - Each commit log has who made the commit, when, what and why they were made. **You provide why/what**
 - Rule of thumb: commit what you wouldn't want to lose.
 
+---
 - Commit message should be 
   - < 50 words
   - A present tense action verb (`Add`/`Update`) followed by what was changed
@@ -80,11 +81,14 @@ Command | Usage | Description |
 ### Activity: Make a GitHub account and push your local repo to GitHub
 - https://github.com/
 - <img width="833" alt="screen shot 2018-06-28 at 4 16 44 pm" src="https://user-images.githubusercontent.com/11183523/42058558-cea9c5e6-7aee-11e8-81ae-4bf32bb551f1.png">
+
+---
 - <img width="806" alt="screen shot 2018-06-28 at 4 17 22 pm" src="https://user-images.githubusercontent.com/11183523/42058552-cd7e8904-7aee-11e8-9543-2d3839887fb4.png">
 
 ---
 ### Activity: Make a GitHub account and go through GitHub Learning labs
 - https://lab.github.com/
+---
 
 ### Final Activity - Make a PR to this powerpoint repo
 - Make a pull request to the repository below with your name and GitHub info in the `README.md` using either GitHub or the command line
