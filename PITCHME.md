@@ -52,15 +52,7 @@ An explanation of version control and tooling with git and GitHub
 ### Basic git Commands
 *Note: Each command usually comes with their own options*
 
-Command | Usage | Description |
------------- | ------------- | ------------------- |
-`git init` | `git init` | Initializes new repository in the current directory (adds `.git` folder)|
-`git clone` | `git clone https://github.com/sirMerr/git-ppt.git` | Makes a copy of a remote repository locally (to your computer)|
-`git status` | `git status` | Displays untracked, changed or staged files (status of repo) |
-`git add` | `git add .`, `git add fileA src/fileB.js` | Add current state of file(s) to staging |
-`git commit` | `git commit -m 'Update README.md` | Anything that’s been staged with `git add` will become a part of the snapshot with git commit |
-`git pull` | `git pull` | Update local repository with changes from remote one. Usually used when teammate makes changes and you want to receive them in your working directory |
-`git push` | `git push` | Pushes new commits to remote repository |
+<img width="723" alt="screen shot 2018-06-28 at 4 26 33 pm" src="https://user-images.githubusercontent.com/11183523/42058997-0e421d06-7af0-11e8-9678-7d992355ade6.png">
 
 ---
 
