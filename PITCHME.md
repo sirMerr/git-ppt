@@ -28,7 +28,18 @@ An explanation of version control and tooling with git and GitHub
 -  The entire collection of files and folders associated with a project, along with each file’s revision history. 
 
 #### Commit
-- The file history appears as snapshots in time called commits, which are linked together and can be separated in branches
+- The file history appears as snapshots in time called commits (like a picture), which are linked together and can be separated in branches
+- Each commit log has who made the commit, when, what and why they were made. **You provide why/what**
+- Rule of thumb: commit what you wouldn't want to lose.
+
+- Commit message should be 
+  - < 50 words
+  - A present tense action verb (`Add`/`Update`) followed by what was changed
+---
+<img width="722" alt="screen shot 2018-06-28 at 12 51 11 pm" src="https://user-images.githubusercontent.com/11183523/42048696-00129346-7ad2-11e8-8c83-e8eec3b9701d.png">
+---
+
+### Important terms (cont'd)
 
 #### Branch
 - A list of commits in a separate unit.
@@ -36,4 +47,12 @@ An explanation of version control and tooling with git and GitHub
 - Each branch should have a singular purpose.
 - Usually for a feature or fix.
 
-<img width="722" alt="screen shot 2018-06-28 at 12 51 11 pm" src="https://user-images.githubusercontent.com/11183523/42048696-00129346-7ad2-11e8-8c83-e8eec3b9701d.png">
+---
+
+### Basic git Commands
+Command | Usage | Description |
+------------ | ------------- | ------------------- |
+`git init` | `git init` | Initializes new repository in the current directory (adds `.git` folder)|
+`git clone` | `git clone https://github.com/sirMerr/git-ppt.git` | Makes a copy of a remote repository locally (to your computer)|
+`git add` | `git add .`, `git add fileA src/fileB.js` | Add current state of file(s) to staging |
+`git commit` | `git commit -m 'Update README.md` | Anything that’s been staged with `git add` will become a part of the snapshot with git commit |
