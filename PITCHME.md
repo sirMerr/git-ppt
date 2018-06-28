@@ -35,8 +35,9 @@ An explanation of version control and tooling with git and GitHub
 
 ---
 - Commit message should be 
-  - < 50 words
+  - < 50 characters
   - A present tense action verb (`Add`/`Update`) followed by what was changed
+  - <img width="784" alt="screen shot 2018-06-28 at 5 39 50 pm" src="https://user-images.githubusercontent.com/11183523/42062048-5092f482-7afa-11e8-9133-e85a44b30328.png">
 ---
 <img width="722" alt="screen shot 2018-06-28 at 12 51 11 pm" src="https://user-images.githubusercontent.com/11183523/42048696-00129346-7ad2-11e8-8c83-e8eec3b9701d.png">
 
