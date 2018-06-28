@@ -85,3 +85,12 @@ An explanation of version control and tooling with git and GitHub
 ### Final Activity - Make a PR to this powerpoint repo
 - Make a pull request to the repository below with your name and GitHub info in the `README.md` using either GitHub or the command line
 - https://github.com/sirMerr/git-ppt
+
+---
+### Extra: GitHub Apps
+- <img width="1061" alt="screen shot 2018-06-28 at 4 31 56 pm" src="https://user-images.githubusercontent.com/11183523/42059279-dbdb4f80-7af0-11e8-92c7-854b6a9f71f2.png">
+
+---
+- https://probot.github.io/
+- <img width="1008" alt="screen shot 2018-06-28 at 4 33 43 pm" src="https://user-images.githubusercontent.com/11183523/42059333-0c92214e-7af1-11e8-898a-21315ee8bbc4.png">
+
