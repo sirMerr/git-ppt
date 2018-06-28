@@ -6,5 +6,4 @@ git and GitHub introduction for freeCodeCamp Montreal :fire:
 Add your name and GitHub to the list below:
 
 - Tiffany LN - [sirMerr](https://github.com/sirMerr/)
-
-- Oleg - Some tests
+- Oleg - [olegsmall](https://github.com/olegsmall/)
